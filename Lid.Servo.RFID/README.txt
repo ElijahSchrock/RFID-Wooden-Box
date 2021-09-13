@@ -1,3 +1,7 @@
+TO VIEW PHOTOS AND VIDEOS:
+To watch the videos I attached please select view raw which will download it to your device.
+To view the images, it will work best if you view the image in a new tab.
+
 This is the Arduino Code I curated to implement an Arduino Rc522 RFID module and the sg90 Arduino servo. 
 I soldered the RFID module and servo connectors to an Arduino Nano
 I also soldered on a 9v battery connector to the Nano so I can have the box run off a 9v battery.
